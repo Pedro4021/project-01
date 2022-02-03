@@ -22,7 +22,7 @@
 					<ul>
 						<li><a href="{{route('index')}}">Inicio</a></li>
 						<li><a href="{{route('generic')}}" class="active">Informacion Personal</a></li>
-						<li><a href="elements.html">Informacion ESCOLAR</a></li>
+						<li><a href="{{route('elements')}}">Informacion ESCOLAR</a></li>
 					</ul>
 				</nav>
 			</header>
